@@ -8,7 +8,8 @@
 * **NPM:** 25161562009
 * **Kelas:** 2A
 
-* ![Uploading penulis.png…]()
+<img width="1536" height="1024" alt="penulis" src="https://github.com/user-attachments/assets/c00202c8-f644-4144-aec1-959b51ce3e07" />
+
 
 ## Nama File
 
