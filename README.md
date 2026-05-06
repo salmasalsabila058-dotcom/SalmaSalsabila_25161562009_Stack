@@ -8,8 +8,7 @@
 * **NPM:** 25161562009
 * **Kelas:** 2A
 
-<img width="1536" height="1024" alt="penulis" src="https://github.com/user-attachments/assets/c00202c8-f644-4144-aec1-959b51ce3e07" />
-
+<img width="720" height="1280" alt="foto salma1" src="https://github.com/user-attachments/assets/d65dad4b-0c40-4a89-9e77-3591b5238723" />
 
 ## Nama File
 
