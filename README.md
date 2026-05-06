@@ -7,6 +7,9 @@
 * **Nama:** Salma Salsabila
 * **NPM:** 25161562009
 * **Kelas:** 2A
+
+* ![Uploading penulis.png…]()
+
 ## Nama File
 
 SalmaSalsabila_25161562009_Stack.java
